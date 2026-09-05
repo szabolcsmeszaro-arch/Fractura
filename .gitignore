@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Output media files (renders, screenshots, video exports)
+*.png
+*.jpg
+*.jpeg
+*.mp4
+*.mkv
+*.webm
+
+# Track project image assets in images/
+!images/
+!images/**
+
+# Virtual environments
+venv/
+env/
+.env
+
+# IDE and Editor configurations
+.vscode/
+.idea/
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
